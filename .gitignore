@@ -2,9 +2,9 @@
 /train_from_scratch.log
 /*.pyc
 /model_from_imagenet_pt/
-!/model_from_imagenet_pt/ResNetFashion_final.pth
+!./model_from_imagenet_pt/ResNetFashion_final.pth
 /model_from_scratch_pt/
-!/model_from_scratch_pt/ResNetFashion_final.pth
+!./model_from_scratch_pt/ResNetFashion_final.pth
 /model_pt/resnet18-5c106cde.pth
 /model_pt/resnet34-333f7ec4.pth
 /model_pt/resnet101-5d3b4d8f.pth
